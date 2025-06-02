@@ -3,6 +3,7 @@ https://www.youtube.com/@Rhylek
 
 # Video:
 - [Why Fortnite Cheaters NEVER Get Caught!](https://youtu.be/GwBsbe4B50A)
+- [There will NEVER be another Fortnite World Cup](https://youtu.be/dYG3T2wBwuw)
 
 # graph
 ## DMA = Direct Memory Access
