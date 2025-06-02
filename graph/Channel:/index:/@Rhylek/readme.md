@@ -2,15 +2,11 @@
 https://www.youtube.com/@Rhylek
 
 # Video:
-- [How Peterbot WON FNCS Globals! ft. Kdog](https://youtu.be/AGdVmqoHWs8)
-- [Is Peterbot CHEATING in Fortnite?](https://youtu.be/YCGdoXXOrh4)
-- [Is Reet CHEATING in Fortnite?](https://youtu.be/47u-ziy7Dc0)
-- [
+- [Why Fortnite Cheaters NEVER Get Caught!](https://youtu.be/GwBsbe4B50A)
 
 # graph
 ## DMA = Direct Memory Access
 sch: https://www.youtube.com/@Rhylek/search?query=dma
-
 - [This Cheat Is RUINING Fortnite! (DMA)](https://youtu.be/z3bW4lLPXe4)
 - [Exposing Fortnite Players Who OPENLY Cheat And Don't Get Banned!](https://youtu.be/UYUxZfvswtA)
 
@@ -21,3 +17,9 @@ sch: https://www.youtube.com/@Rhylek/search?query=macro
 - [Exposing Mr Wolt, a MACRO Cheater, Clip Splitter, and a Clip Faker](https://youtu.be/dRPaubCw4U0)
 - [*SATIRE* | is LD a Macro Cheater in FORTNITE?](https://youtu.be/aEHhEKvWw-0)
 - [How Many Edits Can You ACTUALLY Do in Fortnite?](https://youtu.be/j8FJ95cT_K0)
+
+## Case Study
+- [How Peterbot WON FNCS Globals! ft. Kdog](https://youtu.be/AGdVmqoHWs8)
+- [Is Peterbot CHEATING in Fortnite?](https://youtu.be/YCGdoXXOrh4)
+- [Is Reet CHEATING in Fortnite?](https://youtu.be/47u-ziy7Dc0)
+
