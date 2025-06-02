@@ -13,3 +13,11 @@ sch: https://www.youtube.com/@Rhylek/search?query=dma
 
 - [This Cheat Is RUINING Fortnite! (DMA)](https://youtu.be/z3bW4lLPXe4)
 - [Exposing Fortnite Players Who OPENLY Cheat And Don't Get Banned!](https://youtu.be/UYUxZfvswtA)
+
+## Macro
+sch: https://www.youtube.com/@Rhylek/search?query=macro
+- [UNDENIABLE PROOF THAT KQUID IS HACKING! | Is Tfue Llama hacking??](https://youtu.be/CC9MqMCxRtM)
+- [*SATIRE* | so i was wrong about Ryft | Macros, Clipbots. i was WRONG!!!!!!](https://youtu.be/f7Yk7niIeg0)
+- [Exposing Mr Wolt, a MACRO Cheater, Clip Splitter, and a Clip Faker](https://youtu.be/dRPaubCw4U0)
+- [*SATIRE* | is LD a Macro Cheater in FORTNITE?](https://youtu.be/aEHhEKvWw-0)
+- [How Many Edits Can You ACTUALLY Do in Fortnite?](https://youtu.be/j8FJ95cT_K0)
