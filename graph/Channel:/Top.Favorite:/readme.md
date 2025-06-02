@@ -1,0 +1,1 @@
+- [@HaiX](https://github.com/MetaBotAI/Cheating.Db/tree/main/graph/Channel%3A/HaiX)

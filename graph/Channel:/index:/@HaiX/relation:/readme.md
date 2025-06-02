@@ -1,0 +1,1 @@
+- [CS2 player shocked by "unbiased" CS vs VALORANT comparison](https://youtu.be/CdXq_n6hVoQ)
