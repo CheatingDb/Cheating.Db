@@ -27,3 +27,4 @@ sch: https://www.youtube.com/@Rhylek/search?query=macro
 - [Is Peterbot CHEATING in Fortnite?](https://youtu.be/YCGdoXXOrh4)
 - [Is Reet CHEATING in Fortnite?](https://youtu.be/47u-ziy7Dc0)
 - [Is Avivv CHEATING in Fortnite? (Bugha's Former Duo)](https://youtu.be/7HekQQJrxKc)
+- [How a CHEATER Qualified to the Fortnite Global Championship](https://youtu.be/0FOJjHlR-Pk)
