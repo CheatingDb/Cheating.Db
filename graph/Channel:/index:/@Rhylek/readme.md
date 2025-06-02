@@ -17,6 +17,9 @@ sch: https://www.youtube.com/@Rhylek/search?query=macro
 - [Exposing Mr Wolt, a MACRO Cheater, Clip Splitter, and a Clip Faker](https://youtu.be/dRPaubCw4U0)
 - [*SATIRE* | is LD a Macro Cheater in FORTNITE?](https://youtu.be/aEHhEKvWw-0)
 - [How Many Edits Can You ACTUALLY Do in Fortnite?](https://youtu.be/j8FJ95cT_K0)
+- [DL Ravenz Accidentally Showed his MACROS on STREAM! (EXPOSED!)](https://youtu.be/LuKRJfL_avM)
+- [Is Joltage a MACRO CHEATER in Fortnite? (My Thoughts)](https://youtu.be/jHtnpY5LQiU)
+
 
 ## Case Study
 - [How Peterbot WON FNCS Globals! ft. Kdog](https://youtu.be/AGdVmqoHWs8)
