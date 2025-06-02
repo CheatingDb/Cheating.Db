@@ -6,7 +6,8 @@ sch:
 - https://www.google.com/search?q=dma+cheat+fuser+esp
 
 # Guide:
-https://www.unknowncheats.me/forum/anti-cheat-bypass/625634-dma-poor-mans-fuser-guide.html
+- https://phoenixdma.com/fuser-quick-start-guide/
+- https://www.unknowncheats.me/forum/anti-cheat-bypass/625634-dma-poor-mans-fuser-guide.html
 - [Setup DMA Fuser for ESP Tutorial!](https://youtu.be/OhOeRngeZWo)
 
 # Discuss:
